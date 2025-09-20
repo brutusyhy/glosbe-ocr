@@ -11,6 +11,6 @@ The app uses `tesseract` to do OCR. When you press ctrl-D while hovering over a 
 The app is yet to support non-latin script, although that is totally possible. It also doesn't do much preprocessing of the word to be looked up, thus you might not get a good result for declined words. 
 
 # Next step
--[] Caching of search results
--[] Lemmatization of search word
--[] More sources
+1. Caching of search results
+2. Lemmatization of search word
+3. More sources of dictionary

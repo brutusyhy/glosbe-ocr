@@ -1,4 +1,7 @@
 # Glosbe-ocr
+
+<img width="510" height="386" alt="31e504fb61c196ef2b2b433a9f1144e3" src="https://github.com/user-attachments/assets/9ddcdab1-22f9-4a3a-860f-bb430ba94a8e" />
+
 A simple tool that captures the region around your cursor, extract word and look it up on `glosbe.com`
 
 # Motivation
